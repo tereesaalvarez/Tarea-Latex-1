@@ -888,26 +888,3 @@ Ctrl-C to stop.
 [00mHosting "." on port 8000 without TLS and no authentication...
 Ctrl-C to stop.
 
-[00mHosting "." on port 8000 without TLS and no authentication...
-Ctrl-C to stop.
-
-[36m[2022-09-16 15:04:31][00m [32m172.18.0.1:53456[00m was served file [35m/home/runner/Tarea-Latex-1/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
-[36m[2022-09-16 15:04:31][00m                            found index file for directory [35m/home/runner/Tarea-Latex-1[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
-[36m[2022-09-16 15:04:31][00m [32m172.18.0.1:56502[00m was served file [35m/home/runner/Tarea-Latex-1/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
-[36m[2022-09-16 15:04:31][00m                            found index file for directory [35m/home/runner/Tarea-Latex-1[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
-[36m[2022-09-16 15:04:32][00m [32m172.18.0.1:53468[00m was served file [35m/home/runner/Tarea-Latex-1/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
-[36m[2022-09-16 15:04:32][00m Created temp dir [35m$TEMP/http-home-runner-Tarea-Latex-1/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
-[36m[2022-09-16 15:04:33][00m [32m172.18.0.1:41474[00m was served file [35m/home/runner/Tarea-Latex-1/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
-[36m[2022-09-16 15:04:33][00m                            found index file for directory [35m/home/runner/Tarea-Latex-1[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
-[36m[2022-09-16 15:04:33][00m [32m172.18.0.1:56510[00m was served file [35m/home/runner/Tarea-Latex-1/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
-[00mHosting "." on port 8000 without TLS and no authentication...
-Ctrl-C to stop.
-
-[36m[2022-09-16 15:04:34][00m [32m172.18.0.1:41484[00m was served file [35m/home/runner/Tarea-Latex-1/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
-[36m[2022-09-16 15:04:34][00m                            found index file for directory [35m/home/runner/Tarea-Latex-1[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
-[36m[2022-09-16 15:04:35][00m [32m172.18.0.1:53472[00m was served file [35m/home/runner/Tarea-Latex-1/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
-[36m[2022-09-16 15:04:35][00m [32m172.18.0.1:41490[00m was served file [35m/home/runner/Tarea-Latex-1/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
-[36m[2022-09-16 15:04:35][00m [32m172.18.0.1:56518[00m was served file [35m/home/runner/Tarea-Latex-1/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
-[36m[2022-09-16 15:06:26][00m [32m172.18.0.1:60586[00m was served file [35m/home/runner/Tarea-Latex-1/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
-[36m[2022-09-16 15:06:26][00m                            found index file for directory [35m/home/runner/Tarea-Latex-1[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
-[36m[2022-09-16 15:06:28][00m [32m172.18.0.1:60594[00m was served file [35m/home/runner/Tarea-Latex-1/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
