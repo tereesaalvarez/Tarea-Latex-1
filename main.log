@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/NixOS.org) (preloaded format=pdflatex 2022.2.10)  19 SEP 2022 11:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/NixOS.org) (preloaded format=pdflatex 2022.2.10)  19 SEP 2022 11:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -92,16 +92,22 @@ de vari-ables, pero esto tambi^^Sen
 
 {/nix/store/wgzkhxc19ycsvcd3bqk44vyyvyfy59nb-texlive-combined-full-2021.2021040
 8/share/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
-! Misplaced alignment tab character &.
-l.61 ... Alcarria, R., Sánchez-de-  Rivera, D., &
-                                                   Robles, T. (2017, noviemb...
- 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 
+      
 Here is how much of TeX's memory you used:
- 433 strings out of 478994
- 8059 string characters out of 5829509
+ 434 strings out of 478994
+ 8195 string characters out of 5829509
  304519 words of memory out of 5000000
  17988 multiletter control sequences out of 15000+600000
  407992 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,7n,50p,1666b,203s stack positions out of 5000i,500n,10000p,200000b,80000s
+
 !  ==> Fatal error occurred, no output PDF file produced!
