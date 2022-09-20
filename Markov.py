@@ -25,6 +25,6 @@ def grafico():
     plt.xlabel("Id")
     plt.ylabel("Prediccion Longitud total brote")
     plt.grid(True)
-    plt.show()
+    plt.savefig("Grafico Cadena Markov.png")
 
 grafico()
