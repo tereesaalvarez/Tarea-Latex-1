@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from hmmlearn import hmm
 
-dataset = "Tree_growth.csv"
+dataset = "MarkovChain/Tree_growth.csv"
 
 data = pd.read_csv(dataset)
 
@@ -25,6 +25,6 @@ def grafico():
     plt.xlabel("Id")
     plt.ylabel("Prediccion Longitud total brote")
     plt.grid(True)
-    plt.savefig("Grafico Cadena Markov.png")
+    plt.savefig("MarkovChain/Grafico Cadena Markov.png")
 
 grafico()
