@@ -1,5 +1,6 @@
 import numpy as np
 
+
 def dtw(s, t):
     n, m = len(s), len(t)
     dtw_matrix = np.zeros((n+1, m+1))
@@ -15,3 +16,9 @@ def dtw(s, t):
             last_min = np.min([dtw_matrix[i-1, j], dtw_matrix[i, j-1], dtw_matrix[i-1, j-1]])
             dtw_matrix[i, j] = cost + last_min
     return dtw_matrix
+
+
+a = [1,2,3]
+b = [2,2,2,3,4]
+
+print(dtw(a,b))
