@@ -23,6 +23,42 @@ Dada esta sencilla explicación de la teoría, puede observarse que es posible a
 
 ![image](https://user-images.githubusercontent.com/91721860/193780269-711ade0f-0da7-4dbc-8ec2-340b099418a6.png)
 
+
+Código realizado:
+
+````
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+from hmmlearn import hmm
+
+dataset = "MarkovChain/Tree_growth.csv"
+
+data = pd.read_csv(dataset)
+
+data.dropna(axis = 0)
+
+# Determinamos el cambio teniendo en cuenta el valor anterior
+data["TL Change"] = data["TL"].diff()
+
+# Funcion para elaborar un grafico del dataset aplicando cadenas de markov
+def grafico():
+    plt.figure(figsize = (15, 10))
+    plt.subplot(2,1,1)
+    plt.plot(data["N"], data["TL"])
+    plt.xlabel("Id")
+    plt.ylabel("Longitud total del brote")
+    plt.grid(True)
+    plt.subplot(2,1,2)
+    plt.plot(data["N"], data["TL Change"])
+    plt.xlabel("Id")
+    plt.ylabel("Prediccion Longitud total brote")
+    plt.grid(True)
+    plt.savefig("MarkovChain/Grafico Cadena Markov.png")
+
+grafico()
+
+````
   
 # Dinamic Time Warping (DTW)
 Deformación dinámica del tiempo.
@@ -41,7 +77,7 @@ Ejemplo, comparando la distancia euclídea y el DTW
 ![image](https://user-images.githubusercontent.com/91721860/193786916-10777e35-933b-4cf8-990f-e0f9d57021cd.png)
 
 
-código realizado: 
+Código realizado: 
 
 ````
 import numpy as np
