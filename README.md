@@ -42,7 +42,8 @@ Ejemplo, comparando la distancia euclídea y el DTW
 
 
 código realizado: 
-'''
+
+````
 import numpy as np
 
 
@@ -68,4 +69,4 @@ b = [2,2,2,3,4]
 
 print(dtw(a,b))
 
-'''
+````
