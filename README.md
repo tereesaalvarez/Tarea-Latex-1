@@ -8,7 +8,7 @@ Trabajo realizado por:
 
 *  Rubén Nogueras
 
-*  Pelayo
+*  Pelayo Huerta
 
 *  Jose Luis
   
@@ -31,7 +31,7 @@ Es un algoritmo para medir la similitud entre dos secuencias temporales, que pue
 
 * Cómo funciona el algoritmo DTW
 
-Se ha aplicado para secuencias temporales de datos de vídeo, audio y gráficos (cualquier dato que pueda convertirse en una secuencia lineal pued analizarse con DTW)
+Se ha aplicado para secuencias temporales de datos de vídeo, audio y gráficos (cualquier dato que pueda convertirse en una secuencia lineal pued analizarse con DTW).
 Entre otras, está diseñado para tratar el reconocimiento de voz automático, para afrontar las diferentes velocidades de habla.
 
 Su objetivo es encontrar la alineación global óptima entre dos series de tiempo, explotando las distorsiones temporales entre las dos series de tiempo.
