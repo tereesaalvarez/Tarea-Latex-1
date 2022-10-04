@@ -27,16 +27,17 @@ Dada esta sencilla explicación de la teoría, puede observarse que es posible a
 # Dinamic Time Warping (DTW)
 Deformación dinámica del tiempo.
 
+Es un algoritmo para medir la similitud entre dos secuencias temporales, que pueden variar las velocidades; es un método que calcula una coincidencia óptima entre dos secuencias dadas con ciertas restricciones y reglas (las cuales satisface).
 
 * Cómo funciona el algoritmo DTW
 
-Es una de las medidas más utilizadas de la similitud entre dos series temporales.
-
-Está diseñado para tratar el reconocimiento de voz automático
+Se ha aplicado para secuencias temporales de datos de vídeo, audio y gráficos (cualquier dato que pueda convertirse en una secuencia lineal pued analizarse con DTW)
+Entre otras, está diseñado para tratar el reconocimiento de voz automático, para afrontar las diferentes velocidades de habla.
 
 Su objetivo es encontrar la alineación global óptima entre dos series de tiempo, explotando las distorsiones temporales entre las dos series de tiempo.
 
 Ejemplo, comparando la distancia euclídea y el DTW
+
 ![image](https://user-images.githubusercontent.com/91721860/193786916-10777e35-933b-4cf8-990f-e0f9d57021cd.png)
 
 
