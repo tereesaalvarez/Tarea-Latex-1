@@ -24,3 +24,5 @@ Dada esta sencilla explicación de la teoría, puede observarse que es posible a
 ![image](https://user-images.githubusercontent.com/91721860/193780269-711ade0f-0da7-4dbc-8ec2-340b099418a6.png)
 
   
+# Dinamic Time Warping (DTW)
+Deformación dinámica del tiempo.
