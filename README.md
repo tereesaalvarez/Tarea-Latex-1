@@ -2,15 +2,16 @@
 
 Trabajo realizado por: 
 
-  Esther Rodríguez 
+*  Esther Rodríguez 
 
-  Teresa Álvarez 
+*  Teresa Álvarez 
 
-  Rubén Nogueras
+*  Rubén Nogueras
 
-  Pelayo
+*  Pelayo
 
-  Jose Luis
+*  Jose Luis
   
   # Cadenas de Markov
+  Una cadena de Marvok es un proceso evolutivo que consiste de un número finito de estados en cual la probabilidad de que ocurra un evento depende solamente del evento inmediatamente anterior con unas probabilidades que están fijas.
   
