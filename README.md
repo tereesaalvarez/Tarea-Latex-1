@@ -1,12 +1,16 @@
 # Tarea Latex 1
 
 Trabajo realizado por: 
-Esther Rodríguez García
 
-Teresa Álvarez 
+  Esther Rodríguez 
 
-Rubén Nogueras
+  Teresa Álvarez 
 
-Pelayo
+  Rubén Nogueras
 
-Jose Luis
+  Pelayo
+
+  Jose Luis
+  
+  # Cadenas de Markov
+  
