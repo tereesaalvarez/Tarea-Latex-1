@@ -21,4 +21,6 @@ La base de las cadenas es la conocida como propiedad de Markov, la cual resume l
 
 Dada esta sencilla explicación de la teoría, puede observarse que es posible a través de la misma conocer la probabilidad de que un estado ocurra en el largo plazo. Esto ayuda indudablemente a la predicción y estimación en largos periodos de tiempo.
 
+![image](https://user-images.githubusercontent.com/91721860/193780269-711ade0f-0da7-4dbc-8ec2-340b099418a6.png)
+
   
