@@ -1,5 +1,15 @@
 # Tarea Latex 1
 
+[Pincha aqui para acceder al link de este repositorio](https://github.com/tereesaalvarez/Tarea-Latex-1.git)
+
+---
+
+## Indice
+* [Cadenas de Markov](#1)
+* [Dinamic Time Warping (DTW)](#2)
+
+---
+
 Trabajo realizado por: 
 
 *  Esther Rodríguez 
@@ -11,8 +21,10 @@ Trabajo realizado por:
 *  Pelayo Huerta
 
 *  Jose Luis
+
+---
   
-  # Cadenas de Markov
+  # Cadenas de Markov<a name="1"></a>
   
   Una cadena de Markov es un proceso evolutivo que consiste de un número finito de estados en cual la probabilidad de que ocurra un evento depende solamente del evento inmediatamente anterior con unas probabilidades que están fijas, es decir establece una fuerte dependencia entre un evento y otro suceso anterior.
 Por este motivo, a menudo se dice que estas cadenas cuentan con memoria.
@@ -23,10 +35,11 @@ Dada esta sencilla explicación de la teoría, puede observarse que es posible a
 
 ![image](https://user-images.githubusercontent.com/91721860/193780269-711ade0f-0da7-4dbc-8ec2-340b099418a6.png)
 
+---
 
 Código realizado:
 
-````
+```Python3
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -58,9 +71,11 @@ def grafico():
 
 grafico()
 
-````
+```
+
+---
   
-# Dinamic Time Warping (DTW)
+# Dinamic Time Warping (DTW)<a name="2"></a>
 Deformación dinámica del tiempo.
 
 Es un algoritmo para medir la similitud entre dos secuencias temporales, que pueden variar las velocidades; es un método que calcula una coincidencia óptima entre dos secuencias dadas con ciertas restricciones y reglas (las cuales satisface).
@@ -76,10 +91,11 @@ Ejemplo, comparando la distancia euclídea y el DTW
 
 ![image](https://user-images.githubusercontent.com/91721860/193786916-10777e35-933b-4cf8-990f-e0f9d57021cd.png)
 
+---
 
 Código realizado: 
 
-````
+```Python3
 import numpy as np
 
 
@@ -105,4 +121,4 @@ b = [2,2,2,3,4]
 
 print(dtw(a,b))
 
-````
+```
