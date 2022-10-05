@@ -4,7 +4,7 @@
 
 ---
 
-## Indice
+## Índice
 * [Cadenas de Markov](#1)
 * [Dinamic Time Warping (DTW)](#2)
 
@@ -20,7 +20,7 @@ Trabajo realizado por:
 
 *  Pelayo Huerta
 
-*  Jose Luis
+*  Jose Luis Rodríguez
 
 ---
   
