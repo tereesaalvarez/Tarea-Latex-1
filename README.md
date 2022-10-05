@@ -1,6 +1,6 @@
 # Tarea Latex 1
 
-[Pincha aqui para acceder al link de este repositorio](https://github.com/tereesaalvarez/Tarea-Latex-1.git)
+[Pincha aquí para acceder al link de este repositorio.](https://github.com/tereesaalvarez/Tarea-Latex-1.git)
 
 ---
 
